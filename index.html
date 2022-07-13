@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mod. 11 - Data Visualization</title>
+    <!--JQuery-->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <style>
+        body {
+            background-color: darkslategray;
+            color: lightgrey;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+        canvas {
+            display: block;
+            margin: 0 auto 0 auto;
+        }
+        a {
+            color: lightgrey;
+        }
+    </style>
+</head>
+
+<body onload="loadJSON();">
+
+    <h1>Daily Covid-19 Cases Worldwide</h1>
+    <h2>For the Top 10 Worst Countries</h2>
+    <canvas id="chart1" width="600" height="500"></canvas>
+    <p>This data is accuate as of 11/01/2021. Source: <a href="https://www.worldometers.info/coronavirus/">www.worldometers.info/coronavirus</a></p>
+    
+    <script src="script.js"></script>
+</body>
+</html>

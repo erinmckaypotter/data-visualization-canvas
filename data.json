@@ -1,0 +1,52 @@
+[
+    {
+        "country": "Russia",
+        "val": 40402,
+        "color": "navajowhite" 
+    },
+    {
+        "country": "UK",
+        "val": 40077,
+        "color": "lightgrey" 
+    },
+    {
+        "country": "Turkey",
+        "val": 28678,
+        "color": "lightsalmon" 
+    },
+    {
+        "country": "USA",
+        "val": 18878,
+        "color": "lightgreen" 
+    },
+    {
+        "country": "Ukraine",
+        "val": 13936,
+        "color": "khaki" 
+    },
+    {
+        "country": "Germany",
+        "val": 11315,
+        "color": "lavender" 
+    },
+    {
+        "country": "Hungary",
+        "val": 11211,
+        "color": "lightsteelblue" 
+    },
+    {
+        "country": "Iran",
+        "val": 9857,
+        "color": "mediumturquoise" 
+    },
+    {
+        "country": "Thailand",
+        "val": 8165,
+        "color": "navajowhite" 
+    },
+    {
+        "country": "Romania",
+        "val": 6993,
+        "color": "lavender" 
+    }
+]
